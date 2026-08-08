@@ -1,0 +1,31 @@
+question_id,category,question,option_a,option_b
+1,Us,A surprise date or a carefully planned date?,Surprise Date,Planned Date
+2,Us,Long late-night conversation or comfortable silence together?,Deep Conversation,Comfortable Silence
+3,Us,A handwritten letter or a surprise video made just for you?,Handwritten Letter,Surprise Video
+4,Us,"A random ""I was thinking about you"" message or a big romantic gesture?",Random Message,Big Romantic Gesture
+5,Us,A spontaneous midnight drive or a cozy evening at home?,Midnight Drive,Cozy Evening
+6,Us,One perfect day together or a hundred tiny happy moments?,One Perfect Day,Hundred Tiny Moments
+7,Daily Life & Personality,Morning or Night?,Morning,Night
+8,Daily Life & Personality,Stay Home or Go Out?,Stay Home,Go Out
+9,Daily Life & Personality,Alone Time or Social Time?,Alone Time,Social Time
+10,Daily Life & Personality,Talk or Listen?,Talk,Listen
+11,Daily Life & Personality,Big Group or Small Group?,Big Group,Small Group
+12,Daily Life & Personality,Reading or Writing?,Reading,Writing
+13,Travel & Aesthetic,Mountain or Beach?,Mountain,Beach
+14,Travel & Aesthetic,Planned Trip or Spontaneous Trip?,Planned Trip,Spontaneous Trip
+15,Travel & Aesthetic,City or Nature?,City,Nature
+16,Travel & Aesthetic,Sunset or Rainy Day?,Sunset,Rainy Day
+17,Travel & Aesthetic,Oversized Hoodie or Fitted Outfit?,Oversized Hoodie,Fitted Outfit
+18,Travel & Aesthetic,Live Concert or Intimate Acoustic Session?,Live Concert,Intimate Acoustic Session
+19,What If?,Teleportation or Mind Reading?,Teleportation,Mind Reading
+20,What If?,Pause Time or Rewind 5 Minutes?,Pause Time,Rewind 5 Minutes
+21,What If?,Speak All Languages or Talk to Animals?,Speak All Languages,Talk to Animals
+22,What If?,Live in the 3000BC or the 3000AD?,3000BC,3000AD
+23,What If?,₹10 Lakh Today or ₹1 Crore in 10 Years?,₹10 Lakh Today,₹1 Crore in 10 Years
+24,What If?,Unlimited Travel or Unlimited Food?,Unlimited Travel,Unlimited Food
+25,Mindset,Risk or Safety?,Risk,Safety
+26,Mindset,Logic or Emotion?,Logic,Emotion
+27,Mindset,2 AM Deep Talk or Brunch Deep Talk?,2 AM Deep Talk,Brunch Deep Talk
+28,Mindset,Passion Job or High-Paying Boring Job?,Passion Job,High-Paying Boring Job
+29,Mindset,Fix an Old Mistake or Guarantee Future Success?,Fix an Old Mistake,Guarantee Future Success
+30,Mindset,Be Remembered by History or Fully Understood Today?,Remembered by History,Fully Understood Today
